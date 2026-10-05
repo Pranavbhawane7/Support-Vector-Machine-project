@@ -1,18 +1,18 @@
-# 🧠 Support Vector Machine Project
+# Support Vector Machine Project
 
 ---
 
-## 📌 Overview
+## Overview
 This project applies a **Support Vector Machine (SVM)** classifier to the **Breast Cancer Wisconsin dataset** to predict whether a tumor is **malignant** or **benign**. The dataset contains 30 numerical features describing cell nuclei characteristics extracted from digitized images.
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 Breast cancer is one of the most common cancers worldwide. Early detection is critical for effective treatment. The aim of this project is to build an SVM model that can accurately classify tumors, demonstrating how machine learning can support medical diagnostics.
 
 ---
 
-## 📂 Dataset
+## Dataset
 - **Source**: Scikit‑learn’s built‑in Breast Cancer dataset  
 - **Samples**: 569  
 - **Features**: 30 (mean, standard error, and worst values of 10 cell nucleus measurements)  
@@ -22,7 +22,7 @@ Breast cancer is one of the most common cancers worldwide. Early detection is cr
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 1. **Exploratory Data Analysis (EDA)**  
    - Checked dataset shape, column info, and target distribution  
    - Verified no missing values  
@@ -42,7 +42,7 @@ Breast cancer is one of the most common cancers worldwide. Early detection is cr
 
 ---
 
-## 📊 Results
+## Results
 - Achieved accuracy above **95%** with the RBF kernel  
 - Features like **mean radius**, **worst area**, and **mean concavity** showed strong separation between malignant and benign classes  
 
