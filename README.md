@@ -21,8 +21,8 @@ Breast cancer is one of the most common cancers worldwide. Early detection is cr
   - `1` → Benign  
 
 ---
-
-heatmap showing correlation
+## Observations
+Heatmap showing correlation
 
 <img width="1050" height="881" alt="image" src="https://github.com/user-attachments/assets/be15dd57-43be-42a1-8bd1-79334418a5c8" />
 
