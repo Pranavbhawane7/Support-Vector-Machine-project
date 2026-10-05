@@ -1,7 +1,5 @@
 # Support Vector Machine Project
 
----
-
 ## Overview
 This project applies a **Support Vector Machine (SVM)** classifier to the **Breast Cancer Wisconsin dataset** to predict whether a tumor is **malignant** or **benign**. The dataset contains 30 numerical features describing cell nuclei characteristics extracted from digitized images.
 
